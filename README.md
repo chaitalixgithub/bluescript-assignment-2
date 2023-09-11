@@ -63,23 +63,34 @@ This app interacts with the [Marvel Developer Portal](https://developer.marvel.c
 <img src="https://github.com/chaitalixgithub/bluescript-assignment-2/assets/141347837/ac6b46db-bdc0-4a76-831d-b97af6359d29"
      width="800"
      />
-
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/64277973/179245046-0ea6c28a-90ff-4a87-b460-654019c0791c.png"
+<img src="https://github.com/chaitalixgithub/bluescript-assignment-2/assets/141347837/f9341056-2568-4c31-8c64-4cd5bbafd5c7"
      width="800"
 />
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/64277973/179279024-60eb8b3d-eb70-4617-b912-aacd0207f472.png"
+<img src="https://github.com/chaitalixgithub/bluescript-assignment-2/assets/141347837/9588da9d-03dd-449e-9950-e52e40c7e48d"
+     width="800"
+     />
+</p>
+
+<p align="center">
+<img src="https://github.com/chaitalixgithub/bluescript-assignment-2/assets/141347837/b5b2cb62-2420-472d-b9ae-42eb7c840480"
      width="800"
 />
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/64277973/179279037-edc24bed-f283-4c24-b7a8-bd54d576a13f.png"
+<img src="https://github.com/chaitalixgithub/bluescript-assignment-2/assets/141347837/4627c517-ea87-4048-ba54-8cc5e5c72362"
+     width="800"
+/>
+</p>
+
+<p align="center">
+<img src="https://github.com/chaitalixgithub/bluescript-assignment-2/assets/141347837/e87e5831-0446-43e4-ac09-b033aea72e72"
      width="800"
 />
 </p>
