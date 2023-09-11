@@ -51,9 +51,7 @@ This app interacts with the [Marvel Developer Portal](https://developer.marvel.c
 
 <br/>
 
-## Demo
 
-[https://mudaston.github.io/React-Marvel](https://mudaston.github.io/React-Marvel/)
 
 <br/>
 
@@ -85,53 +83,4 @@ This app interacts with the [Marvel Developer Portal](https://developer.marvel.c
 />
 </p>
 
-## System Requirements
 
-- [git](https://git-scm.com/)
-- [NodeJS](https://nodejs.org/en/)
-
-<br/>
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/mudaston/React-Marvel.git
-```
-
-Go to the project directory
-
-```bash
-  cd React-Marvel
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-
-Open in a browser
-
-```bash
-  http://localhost:3000
-```
-
-<br/>
-
-## Lessons Learned
-
-In this project, I learned how to work with an API (in this case is the [Marvel API](https://developer.marvel.com/)), do pagination and change page metadata.
-
-<br/>
-
-## Additional
-
-Sometimes the app can get the same data from the api request on the comics page, i don't know why this happens, but i checked it multiple times and really can't realize the problem. Method is the same as on the characters page and even the context is the same, so i think - it's API's problem.
