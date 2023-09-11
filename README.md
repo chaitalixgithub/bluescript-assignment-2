@@ -60,9 +60,10 @@ This app interacts with the [Marvel Developer Portal](https://developer.marvel.c
 </p>
 
 <p align="center">
-<img src="C:\Users\chait\OneDrive\Pictures\Screenshots\Screenshot 2023-09-11 211616.png"
+<img src="https://github.com/chaitalixgithub/bluescript-assignment-2/assets/141347837/ac6b46db-bdc0-4a76-831d-b97af6359d29"
      width="800"
-/>
+     />
+
 </p>
 
 <p align="center">
