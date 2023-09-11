@@ -51,9 +51,7 @@ This app interacts with the [Marvel Developer Portal](https://developer.marvel.c
 
 <br/>
 
-## Demo
 
-[https://mudaston.github.io/React-Marvel](https://mudaston.github.io/React-Marvel/)
 
 <br/>
 
@@ -62,76 +60,39 @@ This app interacts with the [Marvel Developer Portal](https://developer.marvel.c
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/64277973/179247956-e9cdb731-3bc0-43e2-bd0c-c52b7388babd.png"
+<img src="https://github.com/chaitalixgithub/bluescript-assignment-2/assets/141347837/ac6b46db-bdc0-4a76-831d-b97af6359d29"
+     width="800"
+     />
+</p>
+
+<p align="center">
+<img src="https://github.com/chaitalixgithub/bluescript-assignment-2/assets/141347837/f9341056-2568-4c31-8c64-4cd5bbafd5c7"
      width="800"
 />
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/64277973/179245046-0ea6c28a-90ff-4a87-b460-654019c0791c.png"
+<img src="https://github.com/chaitalixgithub/bluescript-assignment-2/assets/141347837/9588da9d-03dd-449e-9950-e52e40c7e48d"
+     width="800"
+     />
+</p>
+
+<p align="center">
+<img src="https://github.com/chaitalixgithub/bluescript-assignment-2/assets/141347837/b5b2cb62-2420-472d-b9ae-42eb7c840480"
      width="800"
 />
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/64277973/179279024-60eb8b3d-eb70-4617-b912-aacd0207f472.png"
+<img src="https://github.com/chaitalixgithub/bluescript-assignment-2/assets/141347837/4627c517-ea87-4048-ba54-8cc5e5c72362"
      width="800"
 />
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/64277973/179279037-edc24bed-f283-4c24-b7a8-bd54d576a13f.png"
+<img src="https://github.com/chaitalixgithub/bluescript-assignment-2/assets/141347837/e87e5831-0446-43e4-ac09-b033aea72e72"
      width="800"
 />
 </p>
 
-## System Requirements
 
-- [git](https://git-scm.com/)
-- [NodeJS](https://nodejs.org/en/)
-
-<br/>
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/mudaston/React-Marvel.git
-```
-
-Go to the project directory
-
-```bash
-  cd React-Marvel
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-
-Open in a browser
-
-```bash
-  http://localhost:3000
-```
-
-<br/>
-
-## Lessons Learned
-
-In this project, I learned how to work with an API (in this case is the [Marvel API](https://developer.marvel.com/)), do pagination and change page metadata.
-
-<br/>
-
-## Additional
-
-Sometimes the app can get the same data from the api request on the comics page, i don't know why this happens, but i checked it multiple times and really can't realize the problem. Method is the same as on the characters page and even the context is the same, so i think - it's API's problem.
