@@ -60,7 +60,7 @@ This app interacts with the [Marvel Developer Portal](https://developer.marvel.c
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/64277973/179247956-e9cdb731-3bc0-43e2-bd0c-c52b7388babd.png"
+<img src="C:\Users\chait\OneDrive\Pictures\Screenshots\Screenshot 2023-09-11 211616.png"
      width="800"
 />
 </p>
