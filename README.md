@@ -1,4 +1,5 @@
 # :superhero: React Marvel
+https://marvel-portal-chaitali.netlify.app/
 
 <div align="left">
 
@@ -40,12 +41,6 @@
 
 </div>
 
-<p>
-
-![GitHub repo size](https://img.shields.io/github/repo-size/mudaston/React-Marvel?style=for-the-badge)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mudaston/React-Marvel?style=for-the-badge)
-
-</p>
 
 This app interacts with the [Marvel Developer Portal](https://developer.marvel.com/) API to get characters, comics and information about them.
 
